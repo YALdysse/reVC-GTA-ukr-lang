@@ -14275,6 +14275,176 @@ $~1~
 [TAX_AS2:TAXIWA3]
 ~g~Відтепер таксопарк 'Каufmаn Саbs' даватиме прибуток в розмірі $~1~ щодня. Не забувай регулярно забирати готівку.
 
+{ reVC updates }
+{ new languages }
+[FEL_JAP]
+Японська
+
+[FEL_POL]
+Польська
+
+[FEL_RUS]
+Російська
+
+{ new display menus }
+[FET_GFX]
+Налаштування графіки
+
+[FED_MIP]
+МИП-МАППИНГ
+
+[FED_AAS]
+Згладжування
+
+[FED_FIL]
+Фільтрація текстур
+
+[FED_BIL]
+Білінійна
+
+[FED_TRL]
+Трилінійна
+
+[FED_WND]
+Віконний
+
+[FED_FLS]
+Повноекранний
+
+[FEM_CSB]
+Рамки в кат-сценах
+
+[FEM_SCF]
+Формат вікна
+
+[FEM_ISL]
+Вик. памяті для завантаження мапи
+
+[FEM_LOW]
+Низьке
+
+[FEM_MED]
+Середнє
+
+[FEM_HIG]
+Високе
+
+[FEM_2PR]
+PS2 ALPHA TEST
+
+[FEC_FRC]
+Вільна камера
+
+{ Linux joy detection }
+[FEC_JOD]
+Знайти джойстик
+
+[FEC_JPR]
+Нажмите любую кнопку на джойстике, который хотите использовать в игре и он будет выбран.
+
+[FEC_JDE]
+Джойстик
+
+{ mission restart }
+[FET_RMS]
+Повторити завдання
+
+[FESZ_RM]
+Повторити завдання?
+
+[FED_VPL]
+Віддзеркалення на транспорті
+
+[FED_PRM]
+Тіні на персонажах
+
+[FED_RGL]
+Відблиск на дорогах
+
+[FED_CLF]
+Фільтр кольору
+
+[FED_WLM]
+Карта освітлення з XBOX
+
+[FED_MBL]
+Розмиття в русі
+
+[FEM_SIM]
+SIMPLE
+
+[FEM_NRM]
+NORMAL
+
+[FEM_MOB]
+MOBILE
+
+[FED_MFX]
+MATFX
+
+[FED_NEO]
+NEO
+
+[FEM_PS2]
+PS2
+
+[FEM_XBX]
+XBOX
+
+[FEC_IVP]
+INVERT PAD VERTICALLY
+
+[FEM_NON]
+NONE
+
+[FEC_DS2]
+DUALSHOCK 2
+
+[FEC_DS3]
+DUALSHOCK 3
+
+[FEC_DS4]
+DUALSHOCK 4
+
+[FEC_360]
+XBOX 360 CONTROLLER
+
+[FEC_ONE]
+XBOX ONE CONTROLLER
+
+[FEC_NSW]
+NINTENDO SWITCH CONTROLLER
+
+[FEC_TYP]
+Тип геймпада
+
+[FET_AGS]
+Налаштування геймпаду
+
+[FEM_AUT] { aspect ratio related }
+Авто
+
+[FEM_PED]
+Щільність населення
+
+[FEM_CAR]
+Щільність трафіку
+
+{ reVC fork by AltronMaxX }
+
+[FEM_SLA]
+Автозбереження відсутнє
+
+[FED_BDL]
+Без рамок
+
+[AUT_MSG]
+Гру збережено!
+
+[SKIP]
+Натисніть ~h~~k~~VEHICLE_ENTER_EXIT~~w~ щоб пропустити дзвінок.
+
+{ end of file }
 [DUMMY]
 THIS LABEL NEEDS TO BE HERE !!!
 AS THE LAST LABEL DOES NOT GET COMPILED!!
