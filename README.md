@@ -1,10 +1,12 @@
 # Українська локалізація для reVC (Reverse Engineered GTA: Vice City)
 
-Мета цього проекту: адаптувати український переклад GTA: Vice City від Andrulko до двигуна [reVC](https://github.com/AltronMaxX/reVC) з підтримкою всіх ОС, на якій працює цей двигун.
+Мета цього проекту: адаптувати український переклад GTA: Vice City від Andrulko до двигуна reVC з підтримкою всіх ОС, на якій працює цей двигун.
+
+Зверніть увагу: ця локалізація розрахована на роботу з форком [reVC від AltronMaxX](https://github.com/AltronMaxX/reVC)).
 
 ## Автори
 
-Переклад: Andrulko 
+Переклад: Andrulko<br>
 Адаптації та правки: Y@Ldysse 
 
 ## Відомі проблеми
